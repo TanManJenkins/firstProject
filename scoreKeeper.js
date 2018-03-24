@@ -25,7 +25,7 @@ numInput.addEventListener("change", function(){
 
 });
 //player 1 score
-p1button.addEventListener("click", function(){
+p1button....addEventListener("click", function(){
 	if(!gameOver){
 		p1score++; 
 		if(p1score === winningScore){
